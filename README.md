@@ -1,2 +1,1 @@
-# C_practice2_REVIEW
-2강 필기 복습
+# C_practice1_2강 필기 복습
